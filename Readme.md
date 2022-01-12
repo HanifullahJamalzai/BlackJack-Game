@@ -1,6 +1,6 @@
 # BlackJack Game
 
-## _created with Pure JS, _
+## _created with Pure JS_
 
 ## Features
 
